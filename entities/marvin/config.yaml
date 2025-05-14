@@ -1,0 +1,8 @@
+name: Marvin
+type: robot
+default_animation: idle
+anchor:
+  x: 0.5  # center horizontally
+  y: 1.0  # bottom-aligned
+scale: 1.0  # 1.0 = original size, 0.5 = half size
+clickable: true

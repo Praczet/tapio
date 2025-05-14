@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.tapio.DesktopPet
+Exec=$BASE_DIR/init_tapio.sh
